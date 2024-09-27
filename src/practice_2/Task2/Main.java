@@ -1,5 +1,6 @@
 package Task2;
 
+
 public class Main {
     public static void main(String[] args) {
         Car car1 = new Car("model1", "license1", "color1", 2023);
