@@ -1,4 +1,4 @@
-package Task1;
+package practice_2.Task1;
 
 public class Car {
     String model;
